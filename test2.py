@@ -1,2 +1,2 @@
-print("Here!")
-def idk
+for i in range(5):
+  print(i)
