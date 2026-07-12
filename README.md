@@ -1,3 +1,2 @@
 ## larpy
-for custom python package called "larpy"
-only accessible by Pydroid3 sadly :C
+for custom python package called "larpy", where the module "larpy" from Pydroid3 downloads files.
